@@ -13,8 +13,8 @@ namespace Сельскохозяйственные_работы
 
         SQLiteConnection DB = new SQLiteConnection("DataSource=dbdb.db");
 
-        string q1 = "SELECT Enterprise_Products.Revenue - Suppliers.Cost_suppier as Renta, Enterprise_Products.id_company from Enterprise_Products, Suppliers where strftime('%Y', Date_sales) = '2024';";
-        string q2 = "SELECT Company.Type_ownership FROM Enterprise_Products INNER JOIN Company ON Enterprise_Products.id_company = Company.id_company INNER JOIN Products ON Enterprise_Products.id_product = Products.id_product WHERE Product_name = 'Банан';";
+        string q1 = "SELECT Enterprise_Products.Revenue - Suppliers.Cost_suppier as Renta, Enterprise_Products.id_company from Enterprise_Products, Suppliers where strftime('%Y', Date_sales) = strftime('%Y', 'now') and Renta < 0 or Renta = 0 GROUP BY Enterprise_Products.id_company";
+        string q2 = "SELECT Company.Type_ownership, Company.Name, max(Enterprise_Products.Revenue) as [Наибольший доход] FROM Enterprise_Products INNER JOIN Company ON Enterprise_Products.id_company = Company.id_company INNER JOIN Products ON Enterprise_Products.id_product = Products.id_product WHERE Enterprise_Products.id_product = 5;";
         string q3 = "SELECT Company.Name, Suppliers.Volume * Products.Purchase_price / Company.Number_employees as ress, Company.Number_employees FROM Company, Suppliers, Products WHERE Company.Name = 'Камаз' GROUP by Company.id_company;";
         string q4 = "SELECT Products.Product_name, Enterprise_Products.Revenue, Suppliers.Cost_suppier FROM Enterprise_Products INNER JOIN Products ON Enterprise_Products.id_product = Products.id_product INNER JOIN Suppliers on Enterprise_Products.id_suppliers = Suppliers.id_suppliers WHERE Cost_suppier > Revenue;";
 

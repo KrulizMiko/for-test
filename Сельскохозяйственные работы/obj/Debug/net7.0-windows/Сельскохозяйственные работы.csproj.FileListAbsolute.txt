@@ -49,3 +49,37 @@ C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 м�
 C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.AssemblyReference.cache
 C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\________.17F628D6.Up2Date
 C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.Authorization.resources
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.exe
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.deps.json
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.runtimeconfig.json
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.pdb
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.Authorization.resources
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.MainForm.resources
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.Properties.Resources.resources
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.AssemblyInfoInputs.cache
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.AssemblyInfo.cs
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.CopyComplete
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\refint\Сельскохозяйственные работы.dll
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.pdb
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.genruntimeconfig.cache
+C:\Users\student\Source\Repos\for-test\Сельскохозяйственные работы\obj\Debug\net7.0-windows\ref\Сельскохозяйственные работы.dll
