@@ -1,0 +1,51 @@
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.exe
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.deps.json
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.runtimeconfig.json
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.pdb
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.GenerateResource.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.AssemblyInfoInputs.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.AssemblyInfo.cs
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.CoreCompileInputs.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\refint\Сельскохозяйственные работы.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.pdb
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.genruntimeconfig.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\ref\Сельскохозяйственные работы.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.MainForm.resources
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.Properties.Resources.resources
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.exe
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.deps.json
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.runtimeconfig.json
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\Сельскохозяйственные работы.pdb
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.MainForm.resources
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.Properties.Resources.resources
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.GenerateResource.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.AssemblyInfoInputs.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.AssemblyInfo.cs
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.CoreCompileInputs.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\refint\Сельскохозяйственные работы.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.pdb
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.genruntimeconfig.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\ref\Сельскохозяйственные работы.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные работы.csproj.AssemblyReference.cache
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\________.17F628D6.Up2Date
+C:\Users\артём\OneDrive\Рабочий стол\Практика по 3 модулю — 2 version\Сельскохозяйственные работы\obj\Debug\net7.0-windows\Сельскохозяйственные_работы.Authorization.resources
